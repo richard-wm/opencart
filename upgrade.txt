@@ -1,7 +1,7 @@
 ///////////////////////////////////////
 ///    OpenCart V1.5.x TO 1.5.x     ///
 ///      Upgrade Instructions       ///
-///     http://www.opencart.com     ///
+///     http://www.opencart.com     /// 
 ///////////////////////////////////////
 
 NOTE: THIS IS FOR UPGRADE ON EXISTING INSTALLS ONLY!
